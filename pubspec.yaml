@@ -9,7 +9,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  bonsoir: ^1.0.0+1
+  bonsoir:
+    git:
+      url: https://github.com/Skyost/Bonsoir.git
+      ref: 58ca71fc769725fff4346caa7422a66ff3a62e20
   protobuf: ^2.0.0
 
 dev_dependencies:
