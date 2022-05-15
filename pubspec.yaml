@@ -11,8 +11,8 @@ dependencies:
     sdk: flutter
   bonsoir:
     git:
-      url: https://github.com/Skyost/Bonsoir.git
-#      url: https://github.com/KultivatorConsulting/Bonsoir.git
+#      url: https://github.com/Skyost/Bonsoir.git
+      url: https://github.com/KultivatorConsulting/Bonsoir.git
       ref: master
       path: bonsoir
   protobuf: ^2.0.0
